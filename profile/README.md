@@ -1,5 +1,5 @@
 
-![AIS Group](https://assets-cdn.audionetwork.com/templates/images/Image_10095_98.png)
+![AIS Group](https://ascnjapan2022.jp/common/images/mv.jpg)
 
 
 AISグループへようこそ
