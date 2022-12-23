@@ -63,7 +63,7 @@ For further information please email us at donatelo212dunccine@gmail.com
 Truly yours : 
 春の 井水
 
-![app_seal](https://assets-cdn.audionetwork.com/templates/images/Image_10095_98.png)
+![app_seal](https://png.pngtree.com/background/20210709/original/pngtree-japan-zephyr-japanese-lucky-cat-picture-image_928602.jpg)
 
 
 
