@@ -1,5 +1,5 @@
 
-![AIS Group](https://ascnjapan2022.jp/common/images/mv.jpg)
+![AIS Group](https://github.com/Amazon-IT-Solution-Group/.github/blob/main/1873.jpg)
 
 
 AISグループへようこそ
