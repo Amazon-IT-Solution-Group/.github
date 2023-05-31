@@ -19,7 +19,7 @@ AISグループへようこそ
 私たちは思いやり、愛、テクノロジーを信じています。
 
 
-詳細については、donatelo212dunccine@gmail.com までメールでお問い合わせください。
+詳細については、administrator@5zeroinfo.com までメールでお問い合わせください。
 
 
 <--------------------------------------------------------------------->
@@ -41,7 +41,7 @@ Our objective is to store and maintain the code that serves initiatives of value
 We believe in compassion, love and technology.
 
 
-For further information please email us at donatelo212dunccine@gmail.com
+For further information please email us at administrator@5zeroinfo.com
 Welcome to AIS Group
 
 In this repository we will build and maintain all the source code and releases for the AIS solutions.
@@ -59,7 +59,7 @@ Our objective is to store and maintain the code that serves initiatives of value
 We believe in compassion, love and technology.
 
 
-For further information please email us at donatelo212dunccine@gmail.com
+For further information please email us at administrator@5zeroinfo.com
 Truly yours : 
 春の 井水
 
